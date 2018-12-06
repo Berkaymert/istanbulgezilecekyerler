@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">İGY</string>
+
+
+    <string name="botanik_park">
+<![CDATA[
+
+   <br><h2><font color="red"> BOTANİK PARK </font></h2> </br>
+      <br>
+      Bakırköy Botanik Parkı Türkiye’nin en yüksek oyun kulelerine de ev sahipliği yapıyor.
+      Parka girişte sizi konuşan dinozor heykelleri karşılıyor.
+      Su parkı ve oyun ekipmanları, tematik bahçeler, şifalı bitkiler, mutfak ve bahçe bitkilerinin gruplanmış olduğu kısımlar çocuklar ve büyükler
+      için hem eğlenmeyi hem de bilgi edinmeyi amaçlıyor.
+      Çocuklar için oyun alanında  11 metre uzunluğunda iki oyun kulesi, ip köprüleri, kaydıraklar ve birçok oyun aktivitesi bulunuyor.
+      Ayrıca burada çocuklar için hareket eden 5 adet Dinozor teması da yer alıyor.
+      </br>
+]]>
+
+    </string>
+    <string name="kiz_kulesi">
+<![CDATA[
+
+<br><h2><font color="red"> KIZ KULESİ </font></h2></br>
+
+<br>
+Kız Kulesi, hakkında çeşitli rivayetler anlatılan, efsanelere konu olan, İstanbul Boğazının Marmara Denizine yakın kısmında, Salacak açıklarında yer alan
+küçük adacık üzerinde inşa edilmiş yapıdır.
+Üsküdarın sembolü haline gelen kule, Üsküdar’da Bizans devrinden kalan tek eserdir.
+</br>
+]]>
+    </string>
+
+<string name="ayasofya">
+    <![CDATA[
+     <br><h2><font color="red"> AYASOFYA CAMİ </font></h2></br>
+
+<br>
+    Ayasofya, İstanbulda tarihî bir müze. Bizans İmparatoru I. Justinianus tarafından, 532-537 yılları arasında İstanbulun tarihi yarımadasındaki
+    eski şehir merkezine inşa ettirilmiş bazilika plânlı bir patrik katedrali olup 1453 yılında İstanbulun Osmanlılar tarafından alınmasından sonra
+    Fatih Sultan Mehmet tarafından camiye çevrildi.
+</br>
+]]>
+</string>
+
+<string name="vialand">
+    <![CDATA[
+    <br><h2><font color="red"> VİALAND </font></h2></br>
+
+    <br>
+        İstanbul ya da eski adıyla Vialand Türkiye’de inşa edilmiş ilk temalı parktır.
+        İstanbul ilinin Eyüpsultan ve Gaziosmanpaşa ilçeleri üzerinde yer alan park 26 Mayıs 2013 tarihinde
+        dönemin başbakanı Recep Tayyip Erdoğan tarafından resmen hizmete açıldı.
+    </br>
+    ]]>
+</string>
+<string name="galatakulesi">
+    <![CDATA[
+    <br><h2><font color="red"> GALATA KULESİ </font></h2></br>
+
+    <br>
+        Galata Kulesi, Istanbulun Galata semtinde bulunan bir kule.
+        528 yılında insa edilen yapı, şehrin önemli sembolleri arasındadır.
+        Istanbul Bogazı ve Halic, kuleden panoramik olarak izlenebilmektedir. UNESCO, 2013te kuleyi Dunya Mirası Geçici Listesine dahil etti.
+    </br>
+    ]]>
+</string>
+<string name="yerebatan">
+    <![CDATA[
+  <br><h2><font color="red"> YEREBATAN SARNICI </font></h2</br>
+    <br>
+    Bizans döneminde bu çevrede geniş bir sahayı kaplayan, imparatorların ikamet ettiği büyük saray ve bölgedeki diğer sakinler için su deposu olarak kullanılmıştır.
+     İstanbul’da bulunan en büyük sarnıç olmakla beraber, mimarisinde Doğu Roma izleri görülür.
+     Gerçek adı Bazilika Sarnıcı’dır. Fakat, sütunların görünüşünden dolayı, halk arasında ”Yerebatan” ismini almıştır.
+     </br>
+     ]]>
+</string>
+<string name="miniatürk">
+    <![CDATA[
+   <br><h2><font color="red"> MİNİATÜRK </font></h2></br>
+    <P>
+    Bir çok eserin maketlerinin sergilendiği bir mekandır.
+    Topkapı Sarayı, Anıtkabir, Mevlana Türbesi gibi çeşitli yapıtları burada maket olarak toplu halde görmek ve hakkında bilgi sahibi olmak mümkündür.
+     2003’ten beri turistlerin İstanbul’a adım attıkları andan itibaren ilk gidecekleri ve mutlaka görülmesi gereken mekanlar arasında yer alır.
+     </br>
+    ]]>
+</string>
+    <string name="adresayasofya">
+        <![CDATA[
+    <br><h2><font color="red"> ADRES </font></h2></br>
+     <br>
+                        Sultan Ahmet Mahallesi, Ayasofya Meydanı, 34122 Fatih/İstanbul
+     </br>
+    ]]>
+    </string>
+
+    <string name="kızkulesiadres">
+         <![CDATA[
+    <br><h2><font color="red"> ADRES </font></h2></br>
+     <br>
+                          Salacak Mahallesi, Üsküdar Salacak Mevkii, 34668 Üsküdar/İstanbul
+     </br>
+        ]]>
+    </string>
+
+    <string name="botanikparkadres">
+          <![CDATA[
+     <br><h2><font color="red"> ADRES </font></h2></br>
+     <br>
+                                 Osmaniye Mahallesi, İncirli Kavsağı D-100 Yanyolu, 34146 Bakırköy/İstanbul
+       </br> ]]>
+    </string>
+
+    <string name="vialandadres">
+          <![CDATA[
+     <br><h2><font color="red"> ADRES </font></h2></br>
+     <br>
+                           Yeşilpınar Mahallesi, Şht. Metin Kaya Sk. No:11, 34065 Eyüp/İstanbul
+        </P>]]>
+    </string>
+
+    <string name="galatakulesiadres">
+        <![CDATA[
+       <br><h2><font color="red"> ADRES </font></h2></br>
+              <br>                    Bereketzade Mahallesi, Galata Kulesi Sk., 34421 Beyoğlu/İstanbul
+                 </br>                 ]]>
+    </string>
+    <string name="yerebatansarnıcıadres">
+         <![CDATA[
+     <br><h2><font color="red"> ADRES </font></h2></br>
+     <br>
+        Alemdar Mh., Yerebatan Cd. 1/3, 34410 Fatih/İstanbul
+       </br> ]]>
+    </string>
+
+    <string name="miniatürkadres">
+         <![CDATA[
+  <br><h2><font color="red"> ADRES </font></h2></br>
+    <br>
+        Örnektepe Mahallesi, İmrahor Cd. 7/1, 34445 Beyoğlu/İstanbul
+    </br> ]]>
+    </string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="YerlerXmlArray">
+        <item>AYASOFYA CAMİ</item>
+        <item>KIZ KULESİ</item>
+        <item>BOTANİK PARK</item>
+        <item>VİALAND</item>
+        <item>GALATA KULESİ</item>
+        <item>YEREBATAN SARNICI</item>
+        <item>MİNİATÜRK</item>
+    </string-array>
+
+    <integer-array name="İconlarXmlArray">
+        <item>@drawable/ayasofya</item>
+        <item>@drawable/kizkulesi</item>
+        <item>@drawable/botanikpark</item>
+        <item>@drawable/vialandd</item>
+        <item>@drawable/galataa</item>
+        <item>@drawable/sarnici</item>
+        <item>@drawable/miniaturk</item>
+    </integer-array>
+
+    <string-array name="DetaylarXmlArray">
+        <item>@string/ayasofya</item>
+        <item>@string/kiz_kulesi</item>
+        <item>@string/botanik_park</item>
+        <item>@string/vialand</item>
+        <item>@string/galatakulesi</item>
+        <item>@string/yerebatan</item>
+        <item>@string/miniatürk</item>
+    </string-array>
+    <string-array name="ResimlerXmlArray">
+        <item>@drawable/ayasofyax</item>
+        <item>@drawable/kizkulesix</item>
+        <item>@drawable/botanikparkx</item>
+        <item>@drawable/vialandx</item>
+        <item>@drawable/galatakulesix</item>
+        <item>@drawable/yerebatansarnici</item>
+        <item>@drawable/miniaturkx</item>
+    </string-array>
+    <string-array name="AdreslerXmlArray">
+        <item>@string/adresayasofya</item>
+        <item>@string/kızkulesiadres</item>
+        <item>@string/botanikparkadres</item>
+        <item>@string/vialandadres</item>
+        <item>@string/galatakulesiadres</item>
+        <item>@string/yerebatansarnıcıadres</item>
+        <item>@string/miniatürkadres</item>
+
+    </string-array>
+
+</resources>
