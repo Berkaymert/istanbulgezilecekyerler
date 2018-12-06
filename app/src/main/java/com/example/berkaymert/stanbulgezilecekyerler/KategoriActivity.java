@@ -16,7 +16,7 @@ public class KategoriActivity extends AppCompatActivity {
     ListView mListView;
     String[] yerler;
     TypedArray iconlar;
-    TypedArray resimler;   
+    TypedArray resimler;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
