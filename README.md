@@ -7,7 +7,7 @@
 
 
  Bu ekranda başlangıç ekranından uygulamanın menü ekranına geçişini göreceğiz.
-'JAVA
+```java
     private static int gosterim_suresi = 4000;
 
     @Override
@@ -28,9 +28,7 @@
 
         }
         
-   
-   
-   
+   ```
    
    
    # Seçeneklerin bulunduğu ekran (KategoriActivity)
