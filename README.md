@@ -2,6 +2,10 @@
 İstanbul'da gezip görebileceğiniz birbirinden farklı ve güzel yerlerden oluşan bir uygulama.
 
 # Başlangıç ekranından menüye giriş (SplashActivity)
+
+<img src = "https://github.com/Berkaymert/istanbulgezilecekyerler/blob/master/s1.png" />
+
+
  Bu ekranda başlangıç ekranından uygulamanın menü ekranına geçişini göreceğiz.
 
     private static int gosterim_suresi = 4000;
@@ -23,6 +27,11 @@
         }
 
         }
+        
+   
+   
+   
+   
    
    # Seçeneklerin bulunduğu ekran (KategoriActivity)
    Bu kısımda splash ekranının geçişinden sonra açılan seçeneklerin bulunduğu ekrandaki kodlar:
