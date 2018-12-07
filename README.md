@@ -7,7 +7,7 @@
 
 
  Bu ekranda başlangıç ekranından uygulamanın menü ekranına geçişini göreceğiz.
-'java
+'JAVA
     private static int gosterim_suresi = 4000;
 
     @Override
