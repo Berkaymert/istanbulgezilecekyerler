@@ -7,7 +7,7 @@
 
 
  Bu ekranda başlangıç ekranından uygulamanın menü ekranına geçişini göreceğiz.
-
+'java
     private static int gosterim_suresi = 4000;
 
     @Override
@@ -35,7 +35,7 @@
    
    # Seçeneklerin bulunduğu ekran (KategoriActivity)
    Bu kısımda splash ekranının geçişinden sonra açılan seçeneklerin bulunduğu ekrandaki kodlar:
-  
+'java  
     Toolbar mToolbar;
     ListView mListView;
     String[] yerler;
@@ -74,7 +74,7 @@
     }
 # Detayların bulunduğu ekran (DetayActivity)
 Bu ekranda kategori ekranında seçmiş bulunduğumuz ekranın bilgilerini xml'ler aracılığıyla sırasıyla istediğimiz yerdir.
-    
+'java    
     Toolbar mToolbar;
     ImageView mImageView;
     TextView txt_detay,txt_adres;
