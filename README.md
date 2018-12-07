@@ -1,7 +1,7 @@
 # istanbulgezilecekyerler
 İstanbul'da gezip görebileceğiniz birbirinden farklı ve güzel yerlerden oluşan bir uygulama.
 
-# Başlangıç ekranından menüye giriş (SPLASH EKRANI)
+# Başlangıç ekranından menüye giriş (SplashActivity)
  Bu ekranda başlangıç ekranından uygulamanın menü ekranına geçişini göreceğiz.
 
     private static int gosterim_suresi = 4000;
