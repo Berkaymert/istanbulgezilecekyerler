@@ -22,8 +22,8 @@
 
         }
 
-    }
-   .
+        }
+   
    # Seçeneklerin bulunduğu ekran (KategoriActivity)
    Bu kısımda splash ekranının geçişinden sonra açılan seçeneklerin bulunduğu ekrandaki kodlar:
   
@@ -62,7 +62,7 @@
             });
 
     }
-}
+    }
 # Detayların bulunduğu ekran (DetayActivity)
 Bu ekranda kategori ekranında seçmiş bulunduğumuz ekranın bilgilerini xml'ler aracılığıyla sırasıyla istediğimiz yerdir.
     
@@ -101,4 +101,4 @@ Bu ekranda kategori ekranında seçmiş bulunduğumuz ekranın bilgilerini xml'l
 
         }
     }
-}
+    }
