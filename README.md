@@ -33,8 +33,9 @@
    
    # Seçeneklerin bulunduğu ekran (KategoriActivity)
    Bu kısımda splash ekranının geçişinden sonra açılan seçeneklerin bulunduğu ekrandaki kodlar:
+  
+   
     
-
     ```java
     Toolbar mToolbar;
     ListView mListView;
@@ -72,6 +73,7 @@
 
     }
     }
+    ```
     
    
                               
