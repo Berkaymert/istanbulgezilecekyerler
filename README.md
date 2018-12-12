@@ -33,12 +33,15 @@
    
    # Seçeneklerin bulunduğu ekran (KategoriActivity)
    Bu kısımda splash ekranının geçişinden sonra açılan seçeneklerin bulunduğu ekrandaki kodlar:
-'java  
-    Toolbar mToolbar;
-    ListView mListView;
-    String[] yerler;
-    TypedArray iconlar;
-    TypedArray resimler;
+   
+```java 
+
+
+            Toolbar mToolbar;
+            ListView mListView;
+            String[] yerler;
+            TypedArray iconlar;
+            TypedArray resimler;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -70,9 +73,12 @@
 
     }
     }
+    
+    ```
 # Detayların bulunduğu ekran (DetayActivity)
 Bu ekranda kategori ekranında seçmiş bulunduğumuz ekranın bilgilerini xml'ler aracılığıyla sırasıyla istediğimiz yerdir.
-'java    
+
+```java   
     Toolbar mToolbar;
     ImageView mImageView;
     TextView txt_detay,txt_adres;
