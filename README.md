@@ -33,8 +33,7 @@
    
    # Seçeneklerin bulunduğu ekran (KategoriActivity)
    Bu kısımda splash ekranının geçişinden sonra açılan seçeneklerin bulunduğu ekrandaki kodlar:
-   
-```java 
+    
 
 
             Toolbar mToolbar;
@@ -74,11 +73,14 @@
     }
     }
     
-    ```
-# Detayların bulunduğu ekran (DetayActivity)
-Bu ekranda kategori ekranında seçmiş bulunduğumuz ekranın bilgilerini xml'ler aracılığıyla sırasıyla istediğimiz yerdir.
+   
+                              
+   # Detayların bulunduğu ekran (DetayActivity) 
+   Bu ekranda kategori ekranında seçmiş bulunduğumuz ekranın bilgilerini xml'ler aracılığıyla sırasıyla istediğimiz yerdir.
 
 ```java   
+
+
     Toolbar mToolbar;
     ImageView mImageView;
     TextView txt_detay,txt_adres;
@@ -115,3 +117,4 @@ Bu ekranda kategori ekranında seçmiş bulunduğumuz ekranın bilgilerini xml'l
         }
     }
     }
+    ```
