@@ -35,12 +35,12 @@
    Bu kısımda splash ekranının geçişinden sonra açılan seçeneklerin bulunduğu ekrandaki kodlar:
     
 
-
-            Toolbar mToolbar;
-            ListView mListView;
-            String[] yerler;
-            TypedArray iconlar;
-            TypedArray resimler;
+    ```java
+    Toolbar mToolbar;
+    ListView mListView;
+    String[] yerler
+    TypedArray iconlar;
+    TypedArray resimler;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
